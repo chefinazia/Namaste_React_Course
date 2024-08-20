@@ -1,0 +1,22 @@
+{
+  "name": "namaste_react_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chefinazia/Namaste_React_Course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chefinazia/Namaste_React_Course/issues"
+  },
+  "homepage": "https://github.com/chefinazia/Namaste_React_Course#readme",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
+}
